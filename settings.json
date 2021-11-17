@@ -4,25 +4,24 @@
     "",
     "",
     ""
-  ], // İstediğiniz Kadar Token Girebilirsiniz, Girdiğiniz Her Token İçin Aşşağıya Kanal Oluşturun Yoksa Botlar Aktif Olur Fakat Ses Kanalı Tanınmadığı için Giriş Yapamaz!
+  ],
   
   
   "channels": [
     "",
     "",
     ""
-  ], // Botların gireceği ses kanalıdır - 1. girdiğiniz token, 1. girdiğiniz ses kanalına bağlanır.
+  ], 
 
   "staffRoles": [
     "910246058121121802",
     ""
-  ],  // Register Rolleridir + olarak kendinizde fazladan rol ekleyebilirsiniz.
+  ],
 
   "unregisterRoles": [
     "910246100651368458",
     ""
-  ],  // Kayıtsız Rolleridir + olarak kendinizde fazladan rol ekleyebilirsiniz.
+  ],  
   
-  "fhoozyunregisterSound": "https://cdn.discordapp.com/attachments/906156677982736395/906156703437946890/Unregister.mp3",  //Kayıtsız rolündeki Bir Kişi Odaya Girince Söylenecek Olan Ses Kendi Ses Paketiniz Varsa Onuda Kullanabilirsiniz.
-  "fhoozystaffSound": "https://cdn.discordapp.com/attachments/906156677982736395/906156701504401488/Staff.mp3"   //Register rolündeki Bir Kişi Odaya Girince Söylenecek Olan Ses Kendi Ses Paketiniz Varsa Onuda Kullanabilirsiniz.
-}
+  "fhoozyunregisterSound": "https://cdn.discordapp.com/attachments/906156677982736395/906156703437946890/Unregister.mp3", 
+  "fhoozystaffSound": "https://cdn.discordapp.com/attachments/906156677982736395/906156701504401488/Staff.mp3"  
