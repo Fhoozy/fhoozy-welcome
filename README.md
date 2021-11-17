@@ -10,3 +10,6 @@ Fhoozy Çoklu(Sınırsız) Tokenli Welcome Botu!
 Fhoozy Lyrocks (Fhoozy#0001)
 
  
+![Ses Kanallarında Görünümü](https://user-images.githubusercontent.com/75787893/142149510-c5301325-9cbf-49cc-a45c-6b08f72fa722.png)
+
+![Kullanıcı Tablosunda Görünümü](https://user-images.githubusercontent.com/75787893/142149534-3a7cef01-118e-44f3-ae51-0d34249669fa.png)
