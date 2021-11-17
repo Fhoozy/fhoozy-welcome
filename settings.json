@@ -1,0 +1,33 @@
+{
+
+  "tokens": [
+    
+    "OTA2MTQ4NDYyMjAxMDM2ODQw.YYUahA.LZEWS29hwOrMjrmQswj8Bf3KaUQ",
+    "OTA2MTQ4NTc2MDY3OTgxMzI0.YYUanw.Nu9imHu-KUfi4vrTwbEoHvYHASo",
+    "OTA2MTQ4Njg5OTQzMzM0OTc0.YYUauw.1vseNUERFvnzfu-BLLJIFCYn_BI",
+    "OTA2MTU0NjQyNDk1MzkzODIy.YYUgRg.OmuAHJa0nkBpEGTGb-JMqT6Mzek",
+    "OTA2MTU0NzY5MTU0OTkwMTYx.YYUgZA.jQky5eLMbdk1F4vkjsBFEJwpmOE"
+    
+  ],
+  
+  
+  "channels": [
+    "910246184151580713",
+    "910246185137233920",
+    "910246186110316544",
+    "910246187083386971",
+    "910246188048060446"
+  ],
+
+  "staffRoles": [
+    "910246058121121802",
+    ""
+  ],
+
+  "unregisterRoles": [
+    "910246100651368458"
+  ],
+  
+  "fhoozyunregisterSound": "https://cdn.discordapp.com/attachments/906156677982736395/906156703437946890/Unregister.mp3",
+  "fhoozystaffSound": "https://cdn.discordapp.com/attachments/906156677982736395/906156701504401488/Staff.mp3"
+}
