@@ -1,33 +1,28 @@
 {
 
   "tokens": [
-    
-    "OTA2MTQ4NDYyMjAxMDM2ODQw.YYUahA.LZEWS29hwOrMjrmQswj8Bf3KaUQ",
-    "OTA2MTQ4NTc2MDY3OTgxMzI0.YYUanw.Nu9imHu-KUfi4vrTwbEoHvYHASo",
-    "OTA2MTQ4Njg5OTQzMzM0OTc0.YYUauw.1vseNUERFvnzfu-BLLJIFCYn_BI",
-    "OTA2MTU0NjQyNDk1MzkzODIy.YYUgRg.OmuAHJa0nkBpEGTGb-JMqT6Mzek",
-    "OTA2MTU0NzY5MTU0OTkwMTYx.YYUgZA.jQky5eLMbdk1F4vkjsBFEJwpmOE"
-    
-  ],
+    "",
+    "",
+    ""
+  ], // İstediğiniz Kadar Token Girebilirsiniz, Girdiğiniz Her Token İçin Aşşağıya Kanal Oluşturun Yoksa Botlar Aktif Olur Fakat Ses Kanalı Tanınmadığı için Giriş Yapamaz!
   
   
   "channels": [
-    "910246184151580713",
-    "910246185137233920",
-    "910246186110316544",
-    "910246187083386971",
-    "910246188048060446"
-  ],
+    "",
+    "",
+    ""
+  ], // Botların gireceği ses kanalıdır - 1. girdiğiniz token, 1. girdiğiniz ses kanalına bağlanır.
 
   "staffRoles": [
     "910246058121121802",
     ""
-  ],
+  ],  // Register Rolleridir + olarak kendinizde fazladan rol ekleyebilirsiniz.
 
   "unregisterRoles": [
-    "910246100651368458"
-  ],
+    "910246100651368458",
+    ""
+  ],  // Kayıtsız Rolleridir + olarak kendinizde fazladan rol ekleyebilirsiniz.
   
-  "fhoozyunregisterSound": "https://cdn.discordapp.com/attachments/906156677982736395/906156703437946890/Unregister.mp3",
-  "fhoozystaffSound": "https://cdn.discordapp.com/attachments/906156677982736395/906156701504401488/Staff.mp3"
+  "fhoozyunregisterSound": "https://cdn.discordapp.com/attachments/906156677982736395/906156703437946890/Unregister.mp3",  //Kayıtsız rolündeki Bir Kişi Odaya Girince Söylenecek Olan Ses Kendi Ses Paketiniz Varsa Onuda Kullanabilirsiniz.
+  "fhoozystaffSound": "https://cdn.discordapp.com/attachments/906156677982736395/906156701504401488/Staff.mp3"   //Register rolündeki Bir Kişi Odaya Girince Söylenecek Olan Ses Kendi Ses Paketiniz Varsa Onuda Kullanabilirsiniz.
 }
